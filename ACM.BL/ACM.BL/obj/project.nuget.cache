@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8KJdDcCBzmGm88TY8lWN2SLYCc9TAlBWVzhJmyC6PQdwlijcySsGkb3WqxClkWFNFoQEqPO9UeYgqEkyarY8g==",
+  "success": true,
+  "projectFilePath": "A:\\OBJECT_ORIENTED_PROGRAMMING_WITH_C_SHARP\\ACM.BL\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ornob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ornob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
